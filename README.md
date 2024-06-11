@@ -1,5 +1,7 @@
 # CentOS Stream 8 Docker Image for Ansible Testing
 
+DEPRECATED - CentOS Stream 8 is End Of Life (EOL) as of May 31st 2024.
+
 [![latest](https://github.com/glillico/docker-centosstream8-ansible/workflows/latest/badge.svg)](https://github.com/glillico/docker-centosstream8-ansible/actions?query=workflow%3Alatest)
 
 A docker container using CentOS Stream 8 with Ansible installed for playbook and role testing.
